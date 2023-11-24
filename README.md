@@ -4,8 +4,8 @@ This Streamlit application uses machine learning models to predict the job categ
 
 ## How to run
 
-1. git clone https://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@github.com/sanjanarayarala/resumeScreeningUsingML.git
-2. cd resumeScreeningUsingML
+1. git clone https://github.com/karans98/Resume-Screening.git
+2. cd Resume-Screening
 3. pip install -r requirements.txt
 4. streamlit run app.py
 
